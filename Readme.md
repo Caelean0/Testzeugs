@@ -15,7 +15,7 @@
 A simple raylib project template for CMake and C/C++
 
 Test
-Test2
+Test222222222222
 
 ## Usage
 
