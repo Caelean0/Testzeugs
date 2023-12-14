@@ -14,6 +14,8 @@
 
 A simple raylib project template for CMake and C/C++
 
+Test
+
 ## Usage
 
 Use CMake or a CMake compatible development environment to build a minimalistic raylib project. The raylib library will be downloaded automatically by CMake.
